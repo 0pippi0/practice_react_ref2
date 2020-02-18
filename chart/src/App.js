@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import moment from 'moment';
-import './App.css';
 import axios from 'axios';
 import Buttons from './components/Buttons';
-import LineChart from './components/LineChart'
+import LineChart from './components/LineChart';
 
 class App extends Component {
 
     state = {
-        pair: 'BTCUSD'
+        pair: 'BTCUSD',
         data: []
     }
 
