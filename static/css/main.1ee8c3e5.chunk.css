@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.Buttons{width:100%;display:flex;justify-content:center;padding-top:1rem;padding-bottom:1rem;border-bottom:1px solid #000}.Buttons button{font-size:1.5rem;background:none;outline:none;border:1px solid #000;cursor:pointer}.Buttons button:hover{background:#000;color:#fff}.Buttons button+button{margin-left:1rem}.LineChart{width:85%;margin:1rem auto 0;position:relative}
+/*# sourceMappingURL=main.1ee8c3e5.chunk.css.map */
